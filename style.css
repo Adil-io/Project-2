@@ -84,7 +84,7 @@ body, html{
   font-family: 'Kalam', cursive;
   font-size: 110px;
   margin-bottom: -40px;
-  animation: name 10s .5s infinite;
+  animation: name 13s .5s infinite;
 }
 @keyframes name {
   0%{ color:black; }
